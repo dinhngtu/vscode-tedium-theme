@@ -1,0 +1,21 @@
+{
+    "name": "tedium-theme",
+    "displayName": "Tedium Theme",
+    "description": "",
+    "version": "0.0.1",
+    "engines": {
+        "vscode": "^1.61.0"
+    },
+    "categories": [
+        "Themes"
+    ],
+    "contributes": {
+        "themes": [
+            {
+                "label": "Tedium",
+                "uiTheme": "vs",
+                "path": "./themes/Tedium-color-theme.json"
+            }
+        ]
+    }
+}
