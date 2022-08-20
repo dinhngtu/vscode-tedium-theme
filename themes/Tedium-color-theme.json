@@ -29,6 +29,10 @@
     "statusBarItem.remoteBackground": "#16825d",
     "statusBarItem.remoteForeground": "#ffffff",
     "tab.lastPinnedBorder": "#61616130",
+    "titleBar.activeBackground": "#007acc",
+    "titleBar.activeForeground": "#ffffff",
+    "titleBar.inactiveBackground": "#dddddd99",
+    "titleBar.inactiveForeground": "#33333399"
   },
   "tokenColors": [
     {
