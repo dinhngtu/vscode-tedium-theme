@@ -2,7 +2,10 @@
   "name": "Tedium",
   "type": "light",
   "colors": {
+    "actionBar.toggledBackground": "#dddddd",
     "activityBarBadge.background": "#007acc",
+    "checkbox.border": "#919191",
+    "diffEditor.unchangedRegionBackground": "#f8f8f8",
     "editor.background": "#ffffff",
     "editor.foldBackground": "#e9f4f8",
     "editor.foreground": "#000000",
@@ -15,7 +18,9 @@
     "editorSuggestWidget.background": "#f3f3f3",
     "input.placeholderForeground": "#767676",
     "list.activeSelectionIconForeground": "#ffffff",
+    "list.focusAndSelectionOutline": "#90c2f9",
     "list.hoverBackground": "#e8e8e8",
+    "menu.border": "#d4d4d4",
     "notebook.cellBorderColor": "#e8e8e8",
     "notebook.selectedCellBackground": "#c8ddf150",
     "ports.iconRunningProcessForeground": "#369432",
@@ -29,10 +34,14 @@
     "statusBarItem.remoteBackground": "#16825d",
     "statusBarItem.remoteForeground": "#ffffff",
     "tab.lastPinnedBorder": "#61616130",
+    "tab.selectedBackground": "#ffffffa5",
+    "tab.selectedForeground": "#333333b3",
     "titleBar.activeBackground": "#007acc",
     "titleBar.activeForeground": "#ffffff",
     "titleBar.inactiveBackground": "#dddddd99",
-    "titleBar.inactiveForeground": "#33333399"
+    "titleBar.inactiveForeground": "#33333399",
+    "terminal.inactiveSelectionBackground": "#e5ebf1",
+    "widget.border": "#d4d4d4",
   },
   "tokenColors": [
     {
@@ -49,7 +58,6 @@
     },
     {
       "scope": [
-        "punctuation",
         "keyword.operator",
         "meta.template.expression",
         "meta.embedded",

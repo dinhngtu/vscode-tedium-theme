@@ -2,13 +2,13 @@
     "name": "tedium-theme",
     "displayName": "Tedium Theme",
     "publisher": "dinhngtu",
-    "description": "",
+    "description": "Visibility-tweaked light theme",
     "license": "MIT",
     "repository": {
         "type": "git",
         "url": "https://github.com/dinhngtu/vscode-tedium-theme.git"
     },
-    "version": "0.0.2",
+    "version": "0.0.3",
     "engines": {
         "vscode": "^1.61.0"
     },
